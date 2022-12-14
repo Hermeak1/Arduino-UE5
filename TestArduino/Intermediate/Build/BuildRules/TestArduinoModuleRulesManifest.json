@@ -1,0 +1,22 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SERIALCOM_UE50301\\Source\\SERIALCOM\\SERIALCOM.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-Unreal-master\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-Unreal-master\\Source\\SIOJson\\SIOJson.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-Unreal-master\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-Unreal-master\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-Unreal-master\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-v2.4.0-UE5.0\\Plugins\\SocketIOClient\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-v2.4.0-UE5.0\\Plugins\\SocketIOClient\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-v2.4.0-UE5.0\\Plugins\\SocketIOClient\\Source\\SIOJson\\SIOJson.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-v2.4.0-UE5.0\\Plugins\\SocketIOClient\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\SocketIOClient-v2.4.0-UE5.0\\Plugins\\SocketIOClient\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\SocketIOClient-Unreal\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\SocketIOClient-Unreal\\Source\\SIOJson\\SIOJson.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\SocketIOClient-Unreal\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\SocketIOClient-Unreal\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\SocketIOClient-Unreal\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\Jenne\\Documents\\Unreal Projects\\TestArduino\\Plugins\\UDP-UE5.0-v2.0.0\\Plugins\\UDP-Unreal\\Source\\UDPWrapper\\UDPWrapper.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
